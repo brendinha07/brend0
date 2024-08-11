@@ -1,0 +1,27 @@
+body{
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px rgb(135, 148, 221);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(135, 148, 221);
+}
+
+section{
+   background:rgb(4, 21, 117);
+   padding-bottom: 80px;
+   padding-top: 80px;
+   display: flex;
+justify-content: center
+}
+
+.chamda-texto{
+   margin-right: 5%; 
+}
+img{
+    height: 100px
+}
